@@ -1,10 +1,31 @@
 html{
-    background-color: rgba(253, 194, 152, 0.712);
+    background-color: rgba(253, 206, 173, 0.822);
 }
 
-.cafe{
+h1{
     text-align: center;
+    font-family: sans-serif;
+    color: rgb(95, 11, 11);
 }
-.contactos{
+
+a{
+    /* Color de los nav */
+    color: brown;
+}
+
+p.cafe{
+    /* Posición del enlace central */
+    text-align: center;
+    padding-top: 15%;
+}
+
+p.contactos{
+    /* Posición del enlace de la derecha */
     text-align: right;
+    padding-top: 17%;
+}
+
+p{
+    /* Color de las p */
+    color: brown;
 }
