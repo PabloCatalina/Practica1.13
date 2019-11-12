@@ -22,10 +22,19 @@ p.cafe{
 p.contactos{
     /* Posición del enlace de la derecha */
     text-align: right;
-    padding-top: 17%;
+    padding-top: 15%;
 }
 
 p{
     /* Color de las p */
     color: brown;
 }
+
+
+pre{
+    color: brown;
+    text-align: justify;
+    padding-left: 15%;
+    
+}
+
